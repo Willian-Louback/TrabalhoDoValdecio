@@ -1,0 +1,15 @@
+C:\Users\willi\source\repos\Programação-C\TrabalhoDoValdecio\TrabalhoDoValdecio\obj\Debug\net6.0\TrabalhoDoValdecio.csproj.AssemblyReference.cache
+C:\Users\willi\source\repos\Programação-C\TrabalhoDoValdecio\TrabalhoDoValdecio\obj\Debug\net6.0\TrabalhoDoValdecio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\source\repos\Programação-C\TrabalhoDoValdecio\TrabalhoDoValdecio\obj\Debug\net6.0\TrabalhoDoValdecio.AssemblyInfoInputs.cache
+C:\Users\willi\source\repos\Programação-C\TrabalhoDoValdecio\TrabalhoDoValdecio\obj\Debug\net6.0\TrabalhoDoValdecio.AssemblyInfo.cs
+C:\Users\willi\source\repos\Programação-C\TrabalhoDoValdecio\TrabalhoDoValdecio\obj\Debug\net6.0\TrabalhoDoValdecio.csproj.CoreCompileInputs.cache
+C:\Users\willi\source\repos\Programação-C\TrabalhoDoValdecio\TrabalhoDoValdecio\bin\Debug\net6.0\TrabalhoDoValdecio.exe
+C:\Users\willi\source\repos\Programação-C\TrabalhoDoValdecio\TrabalhoDoValdecio\bin\Debug\net6.0\TrabalhoDoValdecio.deps.json
+C:\Users\willi\source\repos\Programação-C\TrabalhoDoValdecio\TrabalhoDoValdecio\bin\Debug\net6.0\TrabalhoDoValdecio.runtimeconfig.json
+C:\Users\willi\source\repos\Programação-C\TrabalhoDoValdecio\TrabalhoDoValdecio\bin\Debug\net6.0\TrabalhoDoValdecio.dll
+C:\Users\willi\source\repos\Programação-C\TrabalhoDoValdecio\TrabalhoDoValdecio\bin\Debug\net6.0\TrabalhoDoValdecio.pdb
+C:\Users\willi\source\repos\Programação-C\TrabalhoDoValdecio\TrabalhoDoValdecio\obj\Debug\net6.0\TrabalhoDoValdecio.dll
+C:\Users\willi\source\repos\Programação-C\TrabalhoDoValdecio\TrabalhoDoValdecio\obj\Debug\net6.0\refint\TrabalhoDoValdecio.dll
+C:\Users\willi\source\repos\Programação-C\TrabalhoDoValdecio\TrabalhoDoValdecio\obj\Debug\net6.0\TrabalhoDoValdecio.pdb
+C:\Users\willi\source\repos\Programação-C\TrabalhoDoValdecio\TrabalhoDoValdecio\obj\Debug\net6.0\TrabalhoDoValdecio.genruntimeconfig.cache
+C:\Users\willi\source\repos\Programação-C\TrabalhoDoValdecio\TrabalhoDoValdecio\obj\Debug\net6.0\ref\TrabalhoDoValdecio.dll
